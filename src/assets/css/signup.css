@@ -1,0 +1,30 @@
+.auth-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2C2C2E;
+}
+.auth-subtitle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #696A6E;
+}
+.auth-form {
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.fields {
+    /* Structural/White */
+
+    background: #FFFFFF;
+    /* Structural/Stroke */
+
+    border: 1px solid #E5E7ED;
+    border-radius: 4px;
+}
